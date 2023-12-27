@@ -1,7 +1,7 @@
 ## Olá, Meu nome é Raí Lincoln
 
 
-- 🖥️ Atualmente eu trabalho com infraestrutura, SRE e DevOps.
+- 🖥️ Atualmente eu trabalho com Infraestrutura, SRE e DevOps.
 - 📚 Estudando Linux, Zabbix, Grafana, Ansible, Docker, Kubernetes, Python e AWS.
 
 <div style="display: inline_block"><br>
