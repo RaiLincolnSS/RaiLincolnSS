@@ -15,7 +15,7 @@
   <img align="center" alt="Rai-AWS" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
    <img align="center" alt="Rai-Multipass" height="40" width="40" src="https://seeklogo.com/images/M/multipass-logo-96D754CDA1-seeklogo.com.png">
     <img align="center" alt="Rai-Vagrant" height="40" width="50" src="https://logosandtypes.com/wp-content/uploads/2020/08/vagrant.svg">
-    <img align="center" alt="Rai-flask" height="50" width="95" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg">
+    <img align="center" alt="Rai-flask" height="50" width="95" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-official.svg">
 
   
  
