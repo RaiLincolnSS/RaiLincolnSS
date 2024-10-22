@@ -43,7 +43,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="Jetsales" src="https://scontent.faju20-1.fna.fbcdn.net/v/t39.30808-6/275122135_298801768985036_6192697980279388898_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=TnXUhHew7gQQ7kNvgHy_mbd&_nc_zt=23&_nc_ht=scontent.faju20-1.fna&_nc_gid=A6K20uEeoby2oUWcqFhpgva&oh=00_AYA1Ssp-qLziBuHBWA-ib5sB21NoZTAzt8QXkv9ejCd5Uw&oe=671D8B25"/>](https://www.jetsalesbrasil.com/home/)
 
-**Site Reliability Engineer** \
+**Site Reliability Engineer (Jr)** \
 [**Jetsales Brasil**](https://www.jetsalesbrasil.com/home/) • Full-time \
 Linguagens & Tecnologias: `Ansible`, `Docker`, `Python`, `Zabbix`, `Grafana`, `Oracle Cloud Infrastructure`
 <!--Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>) -->
