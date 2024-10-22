@@ -56,7 +56,7 @@ Linguagens & Tecnologias: `Ansible`, `Docker`, `Python`, `Zabbix`, `Grafana`, `O
 Linguagens & Tecnologias: `Zabbix`, `Shell`, `Python`, `Flask`, `Grafana`
 <br clear="left"/>
 
-[<img align="left" height="94px" width="94px" alt="teltec" src="https://teltecsolutions.com.br/static/logo-ef8beabe0e2c2e154489e8e868f3f72a.svg"/>](https://teltecsolutions.com.br/)
+[<img align="left" height="94px" width="94px" alt="teltec" src="https://scontent.faju20-1.fna.fbcdn.net/v/t39.30808-6/288635030_459654326160025_536760349475799473_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=ESytUR_bc50Q7kNvgF85O5u&_nc_zt=23&_nc_ht=scontent.faju20-1.fna&_nc_gid=AQVpqW6_jTB4NU8jlEDu2of&oh=00_AYD5_uUIY-HGe2uuQzV7TBK_h5B14S9Z9O6UiNw3HFmpzA&oe=671D8206"/>](https://teltecsolutions.com.br/)
 
 **Estagiário de Monitoramento** \
 [**Teltec Solutions**](https://teltecsolutions.com.br/) • Estágio \
