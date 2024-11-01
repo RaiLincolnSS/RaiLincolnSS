@@ -13,7 +13,8 @@
    <img align="center" alt="Rai-Zabbix" height="20" width="80" src="https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png">
   <img align="center" alt="Rai-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   <img align="center" alt="Rai-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"> 
-  <!-- <img align="center" alt="Rai-Kube" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg"> -->
+  <img align="center" alt="Rai-Kube" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg"> 
+  <img align="center" alt="Rai-jenkins" height="60" width="70" src="https://www.svgrepo.com/show/353929/jenkins.svg">
   <img align="center" alt="Rai-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rai-oracle" height="50" width="110" src="https://info.neteris.com/hs-fs/hubfs/Logo%20LP%20OCI.png?width=250&height=121&name=Logo%20LP%20OCI.png"> 
     <!--<img align="center" alt="Rai-flask" height="60" width="60" src="https://img.icons8.com/cute-clipart/512/flask.png">-->
