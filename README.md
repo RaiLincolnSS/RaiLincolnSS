@@ -42,7 +42,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Jetsales" src="https://scontent.faju20-1.fna.fbcdn.net/v/t39.30808-6/275122135_298801768985036_6192697980279388898_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=TnXUhHew7gQQ7kNvgHy_mbd&_nc_zt=23&_nc_ht=scontent.faju20-1.fna&_nc_gid=A6K20uEeoby2oUWcqFhpgva&oh=00_AYA1Ssp-qLziBuHBWA-ib5sB21NoZTAzt8QXkv9ejCd5Uw&oe=671D8B25"/>](https://www.jetsalesbrasil.com/home/)
+[<img align="left" height="94px" width="94px" alt="Jetsales" src="https://media.licdn.com/dms/image/v2/C4D0BAQHYPmrrKR-ryA/company-logo_200_200/company-logo_200_200/0/1646232569437/jetsales_brasil_logo?e=1738800000&v=beta&t=dUakHe4TzcI_Raybfac5u67QpPtcj0lONujr0rpwVJQ"/>](https://www.jetsalesbrasil.com/home/)
 
 **Site Reliability Engineer (Jr)** \
 [**Jetsales Brasil**](https://www.jetsalesbrasil.com/home/) • Full-time \
@@ -57,7 +57,7 @@ Linguagens & Tecnologias: `Ansible`, `Docker`, `Python`, `Zabbix`, `Grafana`, `O
 Linguagens & Tecnologias: `Zabbix`, `Shell`, `Python`, `Flask`, `Grafana`
 <br clear="left"/>
 
-[<img align="left" height="94px" width="94px" alt="teltec" src="https://scontent.faju20-1.fna.fbcdn.net/v/t39.30808-6/288635030_459654326160025_536760349475799473_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=ESytUR_bc50Q7kNvgF85O5u&_nc_zt=23&_nc_ht=scontent.faju20-1.fna&_nc_gid=AQVpqW6_jTB4NU8jlEDu2of&oh=00_AYD5_uUIY-HGe2uuQzV7TBK_h5B14S9Z9O6UiNw3HFmpzA&oe=671D8206"/>](https://teltecsolutions.com.br/)
+[<img align="left" height="94px" width="94px" alt="teltec" src="https://media.licdn.com/dms/image/v2/C4E0BAQHRgDpWY5c6lA/company-logo_200_200/company-logo_200_200/0/1655814940488/teltec_solutions_logo?e=1738800000&v=beta&t=XiQgXtspnCnPByL3b1H1-1bD5CHL72lEpcfuyvRVMjo"/>](https://teltecsolutions.com.br/)
 
 **Estagiário de Monitoramento** \
 [**Teltec Solutions**](https://teltecsolutions.com.br/) • Estágio \
