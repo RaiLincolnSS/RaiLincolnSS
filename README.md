@@ -1,11 +1,11 @@
-## Olá, Meu nome é Raí Lincoln
+## Olá, sou Raí Lincoln 👋
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 
-- 🖥️ Atualmente trabalho com Infraestrutura, SRE e DevOps.
-- 📚 Estudando Linux, Zabbix, Grafana,Docker,Kubernetes, Ansible, Terraform e Python.
+- 🖥️ SRE (Site Reliability Engineer) com experiência em Infraestrutura, DevOps e automação.
+- 📚 Em constante aprendizado sobre Linux, Zabbix, Grafana, Docker, Kubernetes, CI/CD, Ansible, Terraform e Python.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rai-Ansible" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg">
@@ -42,11 +42,11 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Jetsales" src="https://media.licdn.com/dms/image/v2/C4D0BAQHYPmrrKR-ryA/company-logo_200_200/company-logo_200_200/0/1646232569437/jetsales_brasil_logo?e=1738800000&v=beta&t=dUakHe4TzcI_Raybfac5u67QpPtcj0lONujr0rpwVJQ"/>](https://www.jetsalesbrasil.com/home/)
+[<img align="left" height="94px" width="94px" alt="Jetsales" src="https://media.licdn.com/dms/image/v2/C4D0BAQFUcDTG9HRItg/company-logo_200_200/company-logo_200_200/0/1651842214365/hindiana_logo?e=1747872000&v=beta&t=jWQkBQxuz9BxQbvvKpI7HIrFQaomG-Y3M_wRmsQFPRg"/>](https://www.jetsalesbrasil.com/home/)
 
 **Site Reliability Engineer (Jr)** \
-[**Jetsales Brasil**](https://www.jetsalesbrasil.com/home/) • Full-time \
-Linguagens & Tecnologias: `Ansible`, `Docker`, `Python`, `Zabbix`, `Grafana`, `Oracle Cloud Infrastructure`
+[**Hindiana**](https://www.jetsalesbrasil.com/home/) • Full-time \
+Linguagens & Tecnologias:  `Zabbix`, `Grafana`,`Docker`, `Ansible`,`Python`,`AWS`, `Docker`,`Terraform`, `Kubernetes`
 <!--Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>) -->
 <br clear="left"/>
 
