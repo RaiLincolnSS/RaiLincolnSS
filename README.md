@@ -50,6 +50,14 @@ Linguagens & Tecnologias: `Ansible`, `Docker`, `Python`, `Zabbix`, `Grafana`, `O
 <!--Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>) -->
 <br clear="left"/>
 
+[<img align="left" height="94px" width="94px" alt="Jetsales" src="https://ugc.production.linktr.ee/uTgPiO6QoO2WHgoPunk7_0001-47748873336.png?io=true&size=avatar-v3_0"/>](https://www.jetsalesbrasil.com/home/)
+
+**Site Reliability Engineer (Jr)** \
+[**Jetsales Brasil**](https://www.jetsalesbrasil.com/home/) • Full-time \
+Linguagens & Tecnologias: `Ansible`, `Docker`, `Python`, `Zabbix`, `Grafana`, `Oracle Cloud Infrastructure`
+<!--Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>) -->
+<br clear="left"/>
+
 [<img align="left" height="94px" width="94px" alt="Unirede" src="https://i.pinimg.com/280x280_RS/89/9c/fc/899cfc4afbe02b18ce9b94221b8e122d.jpg"/>](https://www.unirede.net/)
 
 **Analista de Infraestrutura (Jr)** \
@@ -57,7 +65,7 @@ Linguagens & Tecnologias: `Ansible`, `Docker`, `Python`, `Zabbix`, `Grafana`, `O
 Linguagens & Tecnologias: `Zabbix`, `Shell`, `Python`, `Flask`, `Grafana`
 <br clear="left"/>
 
-[<img align="left" height="94px" width="94px" alt="teltec" src="https://media.licdn.com/dms/image/v2/C4E0BAQHRgDpWY5c6lA/company-logo_200_200/company-logo_200_200/0/1655814940488/teltec_solutions_logo?e=1738800000&v=beta&t=XiQgXtspnCnPByL3b1H1-1bD5CHL72lEpcfuyvRVMjo"/>](https://teltecsolutions.com.br/)
+[<img align="left" height="94px" width="94px" alt="teltec" src="https://media4.giphy.com/avatars/Teltec_Solutions/uw725MJsDP76.png"/>](https://teltecsolutions.com.br/)
 
 **Estagiário de Monitoramento** \
 [**Teltec Solutions**](https://teltecsolutions.com.br/) • Estágio \
