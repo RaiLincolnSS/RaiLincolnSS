@@ -43,7 +43,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Jetsales" src="https://media.licdn.com/dms/image/v2/C4D0BAQFUcDTG9HRItg/company-logo_200_200/company-logo_200_200/0/1651842214365/hindiana_logo?e=1747872000&v=beta&t=jWQkBQxuz9BxQbvvKpI7HIrFQaomG-Y3M_wRmsQFPRg"/>](https://www.jetsalesbrasil.com/home/)
+[<img align="left" height="94px" width="94px" alt="Jetsales" src="https://media.licdn.com/dms/image/v2/C4D0BAQFUcDTG9HRItg/company-logo_200_200/company-logo_200_200/0/1651842214365/hindiana_logo?e=1747872000&v=beta&t=jWQkBQxuz9BxQbvvKpI7HIrFQaomG-Y3M_wRmsQFPRg"/>](https://www.hindiana.com.br/)
 
 **Site Reliability Engineer (Jr)** \
 [**Hindiana**](https://www.hindiana.com.br/) • Full-time \
