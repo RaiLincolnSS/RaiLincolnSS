@@ -46,7 +46,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Jetsales" src="https://media.licdn.com/dms/image/v2/C4D0BAQFUcDTG9HRItg/company-logo_200_200/company-logo_200_200/0/1651842214365/hindiana_logo?e=1747872000&v=beta&t=jWQkBQxuz9BxQbvvKpI7HIrFQaomG-Y3M_wRmsQFPRg"/>](https://www.jetsalesbrasil.com/home/)
 
 **Site Reliability Engineer (Jr)** \
-[**Hindiana**](https://www.jetsalesbrasil.com/home/) • Full-time \
+[**Hindiana**](https://www.hindiana.com.br/) • Full-time \
 Linguagens & Tecnologias:  `Zabbix`, `Grafana`,`Docker`, `Ansible`,`Python`,`AWS`, `Docker`,`Terraform`, `Kubernetes`
 <!--Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>) -->
 <br clear="left"/>
