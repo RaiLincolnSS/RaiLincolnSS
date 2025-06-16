@@ -72,5 +72,7 @@ Linguagens & Tecnologias: `Zabbix`, `Shell`, `Python`, `Flask`, `Grafana`
 [**Teltec Solutions**](https://teltecsolutions.com.br/) • Estágio \
 Linguagens & Tecnologias: `Zabbix`, `Python`, `Bash` 
 <br clear="left"/>
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/rai-lincoln/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+
+
+Encontre-me no [LinkedIn](https://www.linkedin.com/in/rai-lincoln/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
   
