@@ -59,7 +59,7 @@ Linguagens & Tecnologias: `Ansible`, `Docker`, `Python`, `Zabbix`, `Grafana`, `O
 <!--Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>) -->
 <br clear="left"/>
 
-[<img align="left" height="94px" width="94px" alt="Unirede" src="https://media.licdn.com/dms/image/v2/D4D0BAQHIDLLaTFfU3A/company-logo_200_200/B4DZf1647xGsAM-/0/1752177545377/unirede_logo?e=1756339200&v=beta&t=qDKaHAtrWyjnC3M5WqE5u8jbVlnhfhXpbXcaxndG3Ro"/>](https://www.unirede.net/)
+[<img align="left" height="94px" width="94px" alt="Unirede" src="https://scontent.faju20-1.fna.fbcdn.net/v/t39.30808-6/516802667_1383709233519773_4778753474616361754_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=YDWhucVO_S0Q7kNvwEuRm67&_nc_oc=AdnBN6fsMeqcIqXkuvckcTKYD9236Alhnz_DtYcbP4uXQg87jSXuS05JHbsPQjqoiEn5kjsuhGDkiARq8ngBXffV&_nc_zt=23&_nc_ht=scontent.faju20-1.fna&_nc_gid=m3tI69Jq3H9QKnih4Y_I7A&oh=00_AfYNCwQVVWJBYnxTnhfm7DuEkwlXlqWQBWClOcc1ppv4lw&oe=68D62DCF"/>](https://www.unirede.net/)
 
 **Analista de Infraestrutura (Jr)** \
 [**Unirede By Selbetti**](https://www.unirede.net/) • Full-Time \
