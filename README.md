@@ -43,7 +43,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Jetsales" src="https://media.licdn.com/dms/image/v2/C4D0BAQFUcDTG9HRItg/company-logo_200_200/company-logo_200_200/0/1651842214365/hindiana_logo?e=1758758400&v=beta&t=VR2Rf1fyL4VWGkI-9fSwVcKN2fSyqfd1WY8ipPCDOeQ"/>](https://www.hindiana.com.br/)
+[<img align="left" height="94px" width="94px" alt="Hindiana" src="https://media.glassdoor.com/sqll/10270955/hindiana-squareLogo-1736950973238.png"/>](https://www.hindiana.com.br/)
 
 **Site Reliability Engineer (Jr)** \
 [**Hindiana**](https://www.hindiana.com.br/) • Full-time \
@@ -59,7 +59,7 @@ Linguagens & Tecnologias: `Ansible`, `Docker`, `Python`, `Zabbix`, `Grafana`, `O
 <!--Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>) -->
 <br clear="left"/>
 
-[<img align="left" height="94px" width="94px" alt="Unirede" src="https://scontent.faju20-1.fna.fbcdn.net/v/t39.30808-6/516802667_1383709233519773_4778753474616361754_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=YDWhucVO_S0Q7kNvwEuRm67&_nc_oc=AdnBN6fsMeqcIqXkuvckcTKYD9236Alhnz_DtYcbP4uXQg87jSXuS05JHbsPQjqoiEn5kjsuhGDkiARq8ngBXffV&_nc_zt=23&_nc_ht=scontent.faju20-1.fna&_nc_gid=m3tI69Jq3H9QKnih4Y_I7A&oh=00_AfYNCwQVVWJBYnxTnhfm7DuEkwlXlqWQBWClOcc1ppv4lw&oe=68D62DCF"/>](https://www.unirede.net/)
+[<img align="left" height="94px" width="94px" alt="Unirede" src="https://pbs.twimg.com/profile_images/1747356995659710464/3zwD5xr6_400x400.jpg"/>](https://www.unirede.net/)
 
 **Analista de Infraestrutura (Jr)** \
 [**Unirede By Selbetti**](https://www.unirede.net/) • Full-Time \
