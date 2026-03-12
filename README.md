@@ -43,7 +43,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Hindiana" src="https://media.glassdoor.com/sqll/10270955/hindiana-squareLogo-1736950973238.png"/>](https://www.hindiana.com.br/)
+[<img align="left" height="94px" width="94px" alt="Hindiana" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSNDdERc4lDSFRWZTCDQdOPmF7aPDBKuzlng&s"/>](https://www.hindiana.com.br/)
 
 **Site Reliability Engineer (Jr)** \
 [**Hindiana**](https://www.hindiana.com.br/) • Full-time \
