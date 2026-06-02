@@ -22,7 +22,7 @@
     
   
  
-  
+ <!-- 
   --- 
   <div align="center">
   <a href="https://github.com/RaiLincolnSS">
@@ -38,7 +38,7 @@
 </div>
 
 ---
-
+-->
 ### Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
