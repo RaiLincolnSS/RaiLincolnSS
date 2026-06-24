@@ -5,7 +5,7 @@
 
 
 - 🖥️ SRE (Site Reliability Engineer) com experiência em Infraestrutura, DevOps e automação.
-- 📚 Em constante aprendizado sobre Linux, Zabbix, Grafana, Docker, Kubernetes, CI/CD, Ansible, Terraform e Python.
+- 📚 Em constante aprendizado sobre Linux, Zabbix,d Datadog, Grafana, Docker, Kubernetes, CI/CD, Ansible, Terraform e Python.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rai-Ansible" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg">
